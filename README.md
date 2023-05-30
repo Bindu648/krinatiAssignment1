@@ -1,1 +1,1 @@
-# krinatiAssignment1
+# CompanyProject
